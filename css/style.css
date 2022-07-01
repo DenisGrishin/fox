@@ -5222,7 +5222,7 @@ body.popup-show::after {
 
 .about-us__block-one {
   display: flex;
-  ustify-content: space-between;
+  justify-content: space-between;
 }
 @media (max-width: 61.99875em) {
   .about-us__block-one {
